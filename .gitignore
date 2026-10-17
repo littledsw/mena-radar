@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data (never commit research output or personal archives)
+data/*.jsonl
+data/*.json
+data/*.md
+data/eval-report.json
+
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/

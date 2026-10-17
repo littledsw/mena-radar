@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "groups": {
+    "gulf_market": {
+      "label": "① 中东/海湾市场",
+      "queries": [
+        "Saudi Arabia instant retail food delivery market size 2026",
+        "UAE Qatar Kuwait e-commerce policy 2026",
+        "MENA quick commerce market growth 2026",
+        "沙特 即时零售 外卖 市场 2026"
+      ]
+    },
+    "competitors": {
+      "label": "② 竞品动态",
+      "queries": [
+        "Keeta expansion Middle East 2026",
+        "Talabat Jahez HungerStation quarterly results 2026",
+        "noon Amazon.ae market share Saudi 2026",
+        "Careem quick commerce 2026"
+      ]
+    },
+    "china_outbound": {
+      "label": "③ 中企出海",
+      "queries": [
+        "Chinese companies Saudi Arabia regional headquarters 2026",
+        "中企出海中东 签约 融资 供应链 2026",
+        "China outbound Middle East hiring supply chain talent 2026"
+      ]
+    },
+    "ai_landing": {
+      "label": "④ AI 应用落地",
+      "queries": [
+        "enterprise AI agent production deployment 2026 case study",
+        "agent evaluation observability production 2026",
+        "企业级 AI Agent 落地 降本 案例 2026"
+      ]
+    },
+    "pricing": {
+      "label": "⑤ 报价与商业化",
+      "queries": [
+        "AI consulting day rate 2026 China outsourcing quote",
+        "indie hacker SaaS MRR case study 2026",
+        "出海 咨询 报价 陪跑 2026"
+      ]
+    }
+  }
+}
